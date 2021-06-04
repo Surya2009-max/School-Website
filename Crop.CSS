@@ -1,0 +1,48 @@
+img{margin: 10px;
+border-radius: 10px;
+height: 200px;}
+
+.text-capitalize{font-size: 40px;
+margin-top: 100px;
+margin-left: 200px;}
+
+#gallery{font-size: 25px;
+color: darkblue;
+text-decoration: none;
+margin: 20px;
+border-radius: 10px;}
+
+.navbar-header:hover{background:linear-gradient(darkcyan,black)}
+
+a:hover{background: linear-gradient(darkblue,black,cyan)}
+
+label{width: 50%;
+margin-left: 190px;
+font-size: 25px;
+border-radius: 45px;
+margin-top: 50px;}
+
+.img-rounded{border-radius: 45px;
+border-width: 3px;
+border-color: black;
+	border-style: solid;
+height: 300px;
+margin-bottom :250px;
+margin-top:30px;}
+
+.prin{margin-left: 400px;}
+
+#art{background-image: url();
+height: 300px;
+width: 75%;
+margin-left: 15%;
+height: 700px;
+border-radius: 35px;}
+
+.cocu{height: 300px;
+width: 75%;
+margin-left: 15%;
+height: 700px;
+border-radius: 35px;}
+
+
